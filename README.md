@@ -1,11 +1,9 @@
 # 毕业设计 - 基于Web的跨平台电子书籍创作订阅系统的设计与实现
 
-
-## 环境依赖
+## 部署项目
+### 环境依赖
 - Python - 3.8.5
 - Node.js - v14.16.1 - `http://nodejs.cn/download/`
-
-## 部署项目
 
 ### 拉取项目源码
 ```bash
@@ -200,4 +198,3 @@ python manage.py flush
 - /user?user=xxx - 用户中心
 - /book?book=bookidxxx - 书籍阅读
 - /admin - 管理员页面
-
