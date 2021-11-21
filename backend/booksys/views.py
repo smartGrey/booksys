@@ -4,7 +4,6 @@ from .models import RecommendBook,Book,User,ReadHistory,FavorBook,Book,LikeBook,
 import time
 from django.db.models import Q
 import urllib.parse
-from django.http import HttpResponseRedirect
 
 # _send_message(
 #     ['柳卓诚sssaffssaa','刘慈欣'],
