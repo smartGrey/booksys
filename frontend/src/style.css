@@ -1,0 +1,26 @@
+.home_search_input .ant-input {
+  width: 500px;
+  height: 34px;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  font-size: 16px;
+  padding-left: 20px;
+  box-sizing: border-box;
+  outline: none;
+  display: inline-block;
+  box-shadow: 1px 1px 1px #aaa;
+}
+
+.home_search_input .ant-input-search-button {
+  width: 60px;
+  height: 34px;
+  box-sizing: border-box;
+  outline: none;
+  font-size: 22px;
+  border-top-right-radius: 20px !important;
+  border-bottom-right-radius: 20px !important;
+  cursor: pointer;
+  display: inline-block;
+  border: none;
+  box-shadow: 1px 1px 1px #aaa;
+}
