@@ -2,3 +2,4 @@
 /frontend/package-lock.json
 /booksys-env
 /backend/static
+/backend/db.sqlite3
